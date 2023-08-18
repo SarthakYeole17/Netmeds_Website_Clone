@@ -1,0 +1,5 @@
+NAvi Bg color : #32aeb1  #20b6c4
+
+body bg color : #f3f7fb
+
+limited time deels bg color : #24aeb1

@@ -1,0 +1,10 @@
+Node JS Installer :
+
+1) Open Browser
+2) Search Node js download
+3) Windows Installer
+4) Run the downloaded file
+5) Next......
+6) Open CMD
+7) type npm (enter)
+8) type node -v (enter)
